@@ -601,7 +601,7 @@ str2 = 'python'
 ```y is 20 and x is less than y```
 
 ```python
-x="1"
+x=1
 y=20
 
 if x<y and y==20:
